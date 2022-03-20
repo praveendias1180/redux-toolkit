@@ -9,3 +9,17 @@ The Redux Toolkit package is intended to be the standard way to write Redux logi
 Now the common concerns are addressed with Redux Toolkit.
 
 ![Tookit](redux-toolkit.png)
+
+# Getting Started!
+
+https://redux-toolkit.js.org/introduction/getting-started
+
+There are 7 APIs.
+
+- configureStore()
+- createReducer()
+- createAction()
+- createSlice()
+- createAsyncThunk()
+- createEntityAdapter()
+- createSelector()
