@@ -23,3 +23,5 @@ There are 7 APIs.
 - createAsyncThunk()
 - createEntityAdapter()
 - createSelector()
+
+# RTK Query
