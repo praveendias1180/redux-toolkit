@@ -25,3 +25,8 @@ There are 7 APIs.
 - createSelector()
 
 # RTK Query
+
+RTK Query is a powerful data fetching and caching tool. It is designed to simplify common cases for loading data in a web application, eliminating the need to hand-write data fetching & caching logic yourself.
+
+https://redux-toolkit.js.org/rtk-query/overview
+
