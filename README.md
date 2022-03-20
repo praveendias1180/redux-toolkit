@@ -7,3 +7,5 @@ The Redux Toolkit package is intended to be the standard way to write Redux logi
 - "Redux requires too much boilerplate code"
 
 Now the common concerns are addressed with Redux Toolkit.
+
+![Tookit](redux-toolkit.png)
